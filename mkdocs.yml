@@ -1,4 +1,4 @@
-site_name: Linking Boy
+site_name: Linkboy
 site_url: https://www.pixelrespawn.com
 
 nav:
@@ -12,7 +12,7 @@ theme:
   palette:
     primary: custom
 
-copyright: Copyright &copy; 2024 Pixel Respawn LLC
+copyright: Copyright &copy; 2024-2025 Pixel Respawn LLC
 
 extra_css:
   - stylesheets/extra.css

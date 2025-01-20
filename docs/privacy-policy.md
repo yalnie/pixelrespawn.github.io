@@ -1,3 +1,3 @@
 # Privacy Policy
 
-Linking Boy **does not** collect any personal data from users.
+Linkboy, also known as Linking Boy on iOS, **does not** collect or share any personal data from users.
