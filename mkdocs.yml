@@ -3,8 +3,15 @@ site_url: https://www.pixelrespawn.com
 
 nav:
   - index.md
+  - using-linkboy.md
   - privacy-policy.md
   - contact.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
 
 theme:
   name: material
