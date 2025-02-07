@@ -5,11 +5,14 @@
 !!! note
     Only **in-game saves** (as opposed to state saves) can be shared between emulators.
 
-1. In My Boy!, enable Settings -> Misc -> _Sync to Google Drive_, and make sure all saves have been succesfully uploaded.
+1. In Linkboy, tap the **_Settings_** tab on the bottom. Scroll down, find and tap **_Open app folder_**. A file manager will show up.
 
-2. In Linkboy, tap the **_Settings_** tab on the bottom. Scroll down, find and tap **_Open app folder_**. A file manager will show up.
+2. In the file manager, click the 3-bar icon on the top-left, scroll down and tap **My Boy!**.
 
-3. In the file manager, click the 3-bar icon on the top-left, and tap **Drive**, then browse to My Drive -> **MyBoy**. You will find all your save files in this folder.
+    !!! note
+        If you can't find it, please update My Boy! to the latest version.
+
+3. The file manager should now show the internal file structure of My Boy!. Tap the **_save_** subfolder.
 
 4. Select all the files ending with **_.sav_** that you would like to import by tapping the icons on the left side of the file names.
 
