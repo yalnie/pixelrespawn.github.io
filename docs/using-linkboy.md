@@ -35,11 +35,4 @@
     !!! note
         If there are already files with the same names, they will be renamed to _.bak_ before being overwritten.
 
-9. Now switch back to Linkboy and start playing your game. The game should be able to recognize your saves (not the save slots in emulator's menu).
-
-    !!! warning "Important"
-        If you previously played the game on Linkboy, an auto save-state would have been created, which includes a stale copy of the in-game save. In that case, you can either:
-
-        - close the game, and turn off **_Auto load last state_** in the settings, and then start the game again. You can turn it back on afterwards.
-
-        - or simply delete the corresponding _.slot(auto).sst_ file from the saves folder in the file manager.
+9. Now switch back to Linkboy. Start your game, tap the menu button, and then the 3-bar icon. Tap 'Reboot game'. The game will restart and your new _.sav_ file will be picked up by the emulator.
