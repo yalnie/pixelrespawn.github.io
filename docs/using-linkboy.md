@@ -36,3 +36,22 @@
         If there are already files with the same names, they will be renamed to _.bak_ before being overwritten.
 
 9. Now switch back to Linkboy. Start your game, tap the menu button, and then the 3-bar icon. Tap 'Reboot game'. The game will restart and your new _.sav_ file will be picked up by the emulator.
+
+
+## Rom patching { #rom-patching }
+
+Linkboy supports automatic ROM patching when a game is loaded. Here's how to set it up:
+
+!!! warning "Important"
+    Your game must have been added using "**Add game folder**". Otherwise, Linkboy won't have permission to locate and read your patch file.
+
+1. Enable "Auto patch ROM" in the settings.
+
+2. Place the **matching** patch file (.ips, .ups or .bps) in the same folder as your game file.
+
+    !!! note
+        The patch file must have the same name as the game file (excluding the extension).  
+        **Example**: _your_rom.gba_ and _your_rom.ips_
+
+3. Launch your game — it should be automatically patched.  
+If it isn't and you've followed all instructions, the most likely reason is that the patch doesn't match your game or its version.
