@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** [09/01/2025]
+**Effective date:** [09/03/2025]
 
 Linkboy (“the App”) is a Game Boy Advance emulator. We respect your privacy and are committed to being transparent about how we handle your information.
 
@@ -12,7 +12,7 @@ The App itself does not collect or store any personal information on our servers
 
 ### 1. RetroAchievements
 - If you choose to log in to your RetroAchievements account, your username and password are transmitted securely to RetroAchievements’ servers for authentication, and Linkboy stores your RetroAchievements username and a secure login token on your device to maintain your session until you sign out in Linkboy settings. **Your password is never stored on your device.**
-- Any data transmitted to RetroAchievements is sent to their servers, which are located in **Nuremberg, Germany**.
+- Any data transmitted to RetroAchievements is sent to their servers, which are located in Nuremberg, Germany.
 - Gameplay information, such as game identification, achievement progress, and leaderboard scores, may be sent to RetroAchievements so these features work.
 - Linkboy does not transmit personal data to its own servers. Any data sent to RetroAchievements is managed by RetroAchievements, who provide mechanisms for data access, correction, and deletion in accordance with GDPR.
 
@@ -24,8 +24,7 @@ The App itself does not collect or store any personal information on our servers
 ---
 
 ## Data Sharing
-- We do not sell or share personal data with third parties.
-- Data is only transmitted to the services you explicitly connect (RetroAchievements and Google Drive) so their features can function.
+Data is only transmitted to the services you explicitly connect (RetroAchievements and Google Drive) so their features can function.
 
 ---
 
