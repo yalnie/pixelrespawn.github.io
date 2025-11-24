@@ -38,6 +38,19 @@
 9. Now switch back to Linkboy. Start your game, tap the menu button, and then the 3-bar icon. Tap 'Reboot game'. The game will restart and your new _.sav_ file will be picked up by the emulator.
 
 
+## Game thumbnails { #game-thumbnails }
+
+Linkboy can display thumbnails next to game names, making your library easier to browse and recognize. **Linkboy does not provide or distribute thumbnail images**.
+
+Thumbnails are downloaded from a server URL that you provide for each system. Filenames must follow the [No-Intro naming convention](https://wiki.no-intro.org/index.php?title=Naming_Convention) and have the **.png** extension.
+
+For example, if your server URL is `http://thumbnails.example.com/gba/` and a game's No-Intro name is `My Game`, Linkboy will try to download the game's thumbnail image from:  
+`http://thumbnails.example.com/gba/My%20Game.png`
+
+!!! note
+    You may need to rescan your games for thumbnails to appear. This only needs to be done once.
+
+
 ## Rom patching { #rom-patching }
 
 Linkboy supports automatic ROM patching when a game is loaded. Here's how to set it up:
