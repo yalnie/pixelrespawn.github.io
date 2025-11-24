@@ -43,7 +43,7 @@
 Linkboy supports automatic ROM patching when a game is loaded. Here's how to set it up:
 
 !!! warning "Important"
-    Your game must have been added using "**Add game folder**". Otherwise, Linkboy won't have permission to locate and read your patch file.
+    Your game must have been added by "**Game folders**". Otherwise, Linkboy won't have permission to locate and read your patch file.
 
 1. Enable "Auto patch ROM" in the settings.
 
