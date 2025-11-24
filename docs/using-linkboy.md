@@ -42,7 +42,7 @@
 
 Linkboy can display thumbnails next to game names, making your library easier to browse and recognize. **Linkboy does not provide or distribute thumbnail images**.
 
-Thumbnails are downloaded from a server URL that you provide for each system. Filenames must follow the [No-Intro naming convention](https://wiki.no-intro.org/index.php?title=Naming_Convention) and have the **.png** extension.
+Thumbnails are downloaded from a server URL that you provide for each system. The URL must end with a slash `/` to indicate that it points to a directory. Filenames must follow the [No-Intro naming convention](https://wiki.no-intro.org/index.php?title=Naming_Convention) and have the **.png** extension.
 
 For example, if your server URL is `http://thumbnails.example.com/gba/` and a game's No-Intro name is `My Game`, Linkboy will try to download the game's thumbnail image from:  
 `http://thumbnails.example.com/gba/My%20Game.png`
