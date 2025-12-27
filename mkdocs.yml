@@ -15,7 +15,7 @@ markdown_extensions:
 
 theme:
   name: material
-  logo: images/linkboy-icon.png
+  logo: images/linkboy-icon.svg
   palette:
     primary: custom
 
