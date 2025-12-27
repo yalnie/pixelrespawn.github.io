@@ -17,8 +17,17 @@ theme:
   name: material
   logo: images/linkboy-icon.svg
   favicon: assets/favicon.png
-  palette:
+
+palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
     primary: custom
+    accent: custom
+      
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: custom
+    accent: custom
 
 copyright: Copyright &copy; 2024-2025 Pixel Respawn LLC
 
